@@ -1,4 +1,4 @@
-The plot_graphs.m script loads the datasets and plot the admittance graphs.
+The plot_graphs.m script loads the MATLAB datasets and plot the admittance graphs.
 
 dataset1.mat
 - Nx = 19, Ny = 10, Nz = 12
