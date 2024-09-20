@@ -1,3 +1,5 @@
+The plot_graphs.m script loads the datasets and plot the admittance graphs.
+
 dataset1.mat
 - Nx = 19, Ny = 10, Nz = 12
 - fR = 0.2, fL = 0.4, fC = 0.4
