@@ -1,3 +1,5 @@
+simulation_3D_RLC: Evaluates the network admittance using a descriptor model
+
 The plot_graphs.m script loads the MATLAB datasets and plot the admittance graphs.
 
 dataset1.mat
