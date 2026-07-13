@@ -6,6 +6,8 @@ ema_main.m obtains the EMA admittance (dB magnitude and deg phase) using an expe
 
 ema.m performs the EMA calculations
 
+evaluateDispersion.m calculates the dispersion RMS metrics and EMA error (in dB magnitude and deg phase) for datasets 1, 2, and 3. Please uncomment the dataset to be processed in the code.
+
 dataset1.mat
 - Nx = 19, Ny = 10, Nz = 12
 - fR = 0.2, fL = 0.4, fC = 0.4
