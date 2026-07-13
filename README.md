@@ -1,6 +1,10 @@
 simulation_3D_RLC: Evaluates the network admittance using a descriptor model
 
-The plot_graphs.m script loads the MATLAB datasets and plot the admittance graphs.
+plot_graphs.m loads the MATLAB datasets and plot the admittance graphs.
+
+ema_main.m obtains the EMA admittance (dB magnitude and deg phase) using an expected profile to choose the suitable root in the calculations
+
+ema.m performs the EMA calculations
 
 dataset1.mat
 - Nx = 19, Ny = 10, Nz = 12
