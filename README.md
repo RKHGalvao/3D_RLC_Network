@@ -1,10 +1,10 @@
-simulation_3D_RLC: Evaluates the network admittance using a descriptor model
+simulation_3D_RLC: Evaluates the network admittance using a descriptor model.
 
 plot_graphs.m loads the MATLAB datasets and plot the admittance graphs.
 
-ema_main.m obtains the EMA admittance (dB magnitude and deg phase) using an expected profile to choose the suitable root in the calculations
+ema_main.m obtains the EMA admittance (dB magnitude and deg phase) using an expected profile to choose the suitable root in the calculations.
 
-ema.m performs the EMA calculations
+ema.m performs the EMA calculations.
 
 evaluateDispersion.m calculates the dispersion RMS metrics and EMA error (in dB magnitude and deg phase) for datasets 1, 2, and 3. Please uncomment the dataset to be processed in the code.
 
